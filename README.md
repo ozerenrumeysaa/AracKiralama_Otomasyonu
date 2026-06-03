@@ -1,4 +1,4 @@
-Bu proje, klasik ve kaba Windows Forms tasarımlarının dışına çıkarak Glassmorphism (Buzlu Cam) efektleri ve kodla yumuşatılmış hatlarla zenginleştirilmiş,
+Bu proje, klasik  Windows Forms tasarımlarının dışına çıkarak Glassmorphism (Buzlu Cam) efektleri ve kodla yumuşatılmış hatlarla zenginleştirilmiş,
 2026 tasarım standartlarına uygun bir arayüz sunar. Müşteri, araç ve kiralama yönetimini en estetik ve pratik yolla çözmeyi hedefler.
 Programlama Dili: C#
 Platform: Windows Forms (.NET)
